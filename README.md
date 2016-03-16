@@ -1,1 +1,1 @@
-dafaRuby on Rails getting started app
+Ruby on Rails getting started app
