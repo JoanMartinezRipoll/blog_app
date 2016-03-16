@@ -1,1 +1,1 @@
-Ruby on Rails getting started app
+Update Ruby on Rails getting started app
